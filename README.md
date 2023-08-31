@@ -27,9 +27,9 @@ The following files all support "main" and are best accessed through "main" rath
 - sentiments.py 		           	  => for sentiment analysis
 - twitterscraper_tweepy.py	    	=> for pulling tweets
 - twitter_code_from_twitter.py 		=> for getting twitter ids from a list of usernames
--.env				                    	=> an enviornment file. Twitter API authentication keys need to be entered here to pull tweets
+- .env				                    	=> an enviornment file. Twitter API authentication keys need to be entered here to pull tweets
 
-"output" has the relevant files created from this project
+"output" has the relevant files created from this project,
 "data" contains files used in main and regressions
 
 
